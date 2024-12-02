@@ -14,7 +14,7 @@
     "outdated": "pnpm outdated"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.30.0",
+    "@clerk/nextjs": "^6.5.1",
     "@headlessui/react": "^1.7.19",
     "@hookform/resolvers": "^3.3.4",
     "@mdx-js/loader": "^2.3.0",
